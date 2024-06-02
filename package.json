@@ -1,0 +1,16 @@
+{
+  "name": "consultar-empresa-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+   "start": "node ."
+  },
+  "keywords": ["api", "consultas", "cnpj", "telefone", "email", "pessoa", "consulta empresarial"],
+  "author": "seshdev",
+  "license": "MIT",
+  "description": "Está biblioteca é para buscar dados de empresas a partir do CNPJ, EMAIL, TELEFONE, NOME e CPF.",
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
